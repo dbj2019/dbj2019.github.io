@@ -6,4 +6,4 @@ I completed my master's degree in Biotechnology from SRTM University. In my post
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-b-jadhav)
 
-https://twitter.com/intent/tweet?url={https://twitter.com/Jdinesh525}&text={title}&via={Jdinesh525}&hashtags={hash_tags}
+
