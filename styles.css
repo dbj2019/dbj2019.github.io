@@ -1,7 +1,8 @@
+theme: jekyll-theme-Cayman
 body {
     margin: 10;
     padding: 0%;
-    background: rgb(109, 218, 218);
+    background: white;
     text-align: center;
 }
 
