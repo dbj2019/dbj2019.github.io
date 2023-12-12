@@ -18,7 +18,14 @@ p {
 
 }
 
-img {
+image-container {
+    display: flex;
+    justify-content: space-between; /* Distributes space between images */
+    align-items: center; /* Aligns items vertically in the center */
+  }
+
+image-container img {
     width: 20em;
     max-width: 50%;
+    margin-right: 10px;
 }
