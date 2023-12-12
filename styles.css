@@ -4,7 +4,7 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background: rgba(15, 165, 128, 0.507);
+    background: radial-gradient(teal, tomato);
     text-align: center;
 }
 
