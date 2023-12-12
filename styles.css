@@ -4,7 +4,8 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background: skyblue;
+    background: rgba(119, 179, 179, 0.13);
+    background-image: -moz-linear-gradient();
     text-align: center;
 }
 
