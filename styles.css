@@ -4,8 +4,8 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background: rgba(82, 52, 163, 0.13);
-    background-image: repeating-radial-gradient();
+    background: rgba(15, 165, 128, 0.507);
+    background-image: linear-gradient(to right, rgba(6, 189, 143, 0.829), rgba(151, 197, 211, 0.808));
     text-align: center;
 }
 
