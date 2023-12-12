@@ -21,4 +21,5 @@ p {
 img {
     width: 20em;
     max-width: 50%;
+    margin-right: 10em;
 }
