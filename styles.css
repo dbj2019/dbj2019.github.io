@@ -1,4 +1,4 @@
-body {
+/* body {
     margin: 60px;
     width: 70%;
 }
@@ -40,8 +40,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-/* body {
+} */
+body {
     margin: 10;
     padding-top: 10em;
     padding-right: 10em;
@@ -64,4 +64,4 @@ p {
 img {
     width: 20em;
     max-width: 50%;
-} */
+}
