@@ -1,4 +1,7 @@
 body {
+    font-family: Arial;
+    font-size: large;
+    line-height: 26;
     margin: 10;
     padding-top: 10em;
     padding-right: 10em;
