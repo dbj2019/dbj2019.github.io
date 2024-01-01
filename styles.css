@@ -1,6 +1,8 @@
 body {
     font-family: Arial;
     font-size: large;
+    line-height: 2;
+    margin: 1;
     padding-top: 10em;
     padding-right: 10em;
     padding-bottom: 10em;
@@ -9,12 +11,17 @@ body {
     text-align: center;
 }
 
-
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding-top: 4em;
+
 }
+
+p {
+    margin: 2em 0;
+
+}
+
 img {
-    width: 20px;
+    width: 20em;
     max-width: 50%;
 }
