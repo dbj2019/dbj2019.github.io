@@ -12,24 +12,19 @@ body {
 }
 
 h1 {
-    padding-top: 4em;
+    padding-top: 10em;
 
 }
 
 p {
-    margin: 2em 0;
+    margin: 10em 0;
 
 }
 
 img {
-    width: 20em;
+    width: 10em;
     max-width: 50%;
 }
-body {
-    margin: 60px auto;
-    width: 70%;
-}
-
 nav ul, footer ul {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
