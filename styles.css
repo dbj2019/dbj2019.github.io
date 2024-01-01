@@ -1,8 +1,8 @@
-/* body {
+body {
     font-family: Arial;
     font-size: large;
-    line-height: 26;
-    margin: 10;
+    line-height: 2;
+    margin: 1;
     padding-top: 10em;
     padding-right: 10em;
     padding-bottom: 10em;
@@ -24,4 +24,4 @@ p {
 img {
     width: 20em;
     max-width: 50%;
-} */
+}
