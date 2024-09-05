@@ -37,6 +37,10 @@ nav{
     text-decoration: none;
     color: #000;
     padding: 10px;
+    list-style-type: square;
+    margin: 0;
+    padding: 10px;
+    flex-direction: row; /* Arrange items vertically */
 }
 
 ul {
