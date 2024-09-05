@@ -4,10 +4,10 @@ body {
     font-size: 16px;
     line-height: 2;
     margin: 1em;
-    /* padding-top: 10em; */
-    /* padding-right: 10em; */
-    /* padding-bottom: 10em; */
-    /* padding-left: 10em; */
+    padding-top: 10em;
+    padding-right: 10em;
+    padding-bottom: 10em;
+    padding-left: 10em;
     background:- white ;
     text-align: center;
 }
@@ -51,4 +51,21 @@ ul {
   
   ul li {
     margin-bottom: 5px;
+  }
+
+  .items-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
+    justify-content: center; /* Center the items horizontally   
+   */
+  }
+  
+  .item {
+    width: 200px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    background-color: #f0f0f0;
+    border: 2px solid #000;
+    border-radius: 10px; /* Create rounded corners */
+    padding: 20px;
+    text-align: center;
   }
