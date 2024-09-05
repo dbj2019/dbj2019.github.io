@@ -27,15 +27,24 @@ img {
     max-width: 40%;
 }
 
-
-.nav-container {
+nav{
     display: flex;
     justify-content: space-between;
 }
 
-.nav-container a {
+nav{
     /* Additional styles for the anchor elements */
     text-decoration: none;
     color: #000;
     padding: 10px;
 }
+
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
