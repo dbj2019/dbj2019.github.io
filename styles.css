@@ -52,7 +52,7 @@ ul {
   
   ul li {
     display: inline-block;
-    border: 2px solid #0193d6e7; /* Box color */
+    border: 2px solid #bcbcbd; /* Box color */
     padding: 10px;
     margin: 5px; /* Spacing between items */
     border-radius: 8px; /* Rounded corners (optional) */
