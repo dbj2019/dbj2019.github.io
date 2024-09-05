@@ -14,18 +14,18 @@ body {
     background-image: url("assets/images/My-Site_Logo.png");
 
     /* Make the background cover the entire page */
-    background-size: cover;
+    background-size: contain;
 
     /* Fix the background in place */
     background-attachment: fixed;
 
     /* Center the background */
-    background-position: center;
+    background-position: top left;
 
     /* Optional: Repeat the background image (default is repeat) */
     background-repeat: no-repeat;
     /* Add a blur effect to the background */
-    filter: blur(80px);
+    filter: blur(8px);
     /* Adjust the blur value as needed */
 
     /* Create a subtle zoom-in animation */
