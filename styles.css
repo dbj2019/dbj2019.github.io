@@ -9,7 +9,7 @@ body {
     padding-bottom: 10em;
     padding-left: 10em;
     background: - rgb(255, 255, 255);
-    text-align: center;
+    text-align: justify;
     /* Set the background image */
     /* background-image: url("assets/images/ImagePL_8.png"); */
 
@@ -57,7 +57,7 @@ nav {
     margin: 0;
     padding: 0;
     flex-direction: row;
-    text-align: center;
+    text-align: justify;
     justify-content: center;
     /* Arrange items vertically */
 }
@@ -85,7 +85,7 @@ ul li {
     /* Alternatively, you can use min-width or max-width for flexibility */
     /* min-width: 150px; */
     /* max-width: 300px; */
-    text-align: center;
+    text-align: justify;
     /* Center the text in the box */
 }
 
@@ -108,5 +108,5 @@ ul li {
     border-radius: 10px;
     /* Create rounded corners */
     padding: 20px;
-    text-align: center;
+    text-align: justify;
 }
