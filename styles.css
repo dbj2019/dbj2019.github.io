@@ -8,10 +8,10 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background: - rgb(27, 108, 114);
+    background: - rgb(255, 255, 255);
     text-align: center;
     /* Set the background image */
-    background-image: url("assets/images/ImagePL_8.png");
+    /* background-image: url("assets/images/ImagePL_8.png"); */
 
     /* Make the background cover the entire page */
     background-size: contain;
