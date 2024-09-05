@@ -1,5 +1,5 @@
 body {
-    
+
     font-family: Arial;
     font-size: 16px;
     line-height: 2;
@@ -8,8 +8,22 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background:- rgb(27, 108, 114) ;
+    background: - rgb(27, 108, 114);
     text-align: center;
+    /* Set the background image */
+    background-image: image("assets/images/My-Site_Logo.png");
+
+    /* Make the background cover the entire page */
+    background-size: cover;
+
+    /* Fix the background in place */
+    background-attachment: fixed;
+
+    /* Center the background */
+    background-position: center;
+
+    /* Optional: Repeat the background image (default is repeat) */
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -27,12 +41,12 @@ img {
     max-width: 50%;
 }
 
-nav{
+nav {
     display: flex;
     justify-content: space-between;
 }
 
-nav{
+nav {
     /* Additional styles for the anchor elements */
     text-decoration: none;
     color: #000;
@@ -41,42 +55,53 @@ nav{
     margin: 0;
     padding: 0;
     flex-direction: row;
-    text-align: center; /* Arrange items vertically */
+    text-align: center;
+    /* Arrange items vertically */
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
-  
-  ul li {
+}
+
+ul li {
     display: inline-block;
-    border: 2px solid #bcbcbd; /* Box color */
+    border: 2px solid #bcbcbd;
+    /* Box color */
     padding: 10px;
-    margin: 5px; /* Spacing between items */
-    border-radius: 8px; /* Rounded corners (optional) */
+    margin: 5px;
+    /* Spacing between items */
+    border-radius: 8px;
+    /* Rounded corners (optional) */
     font-size: 16px;
-    width: 200px; /* Fixed width (customize as needed) */
+    width: 200px;
+    /* Fixed width (customize as needed) */
     /* Alternatively, you can use min-width or max-width for flexibility */
     /* min-width: 150px; */
     /* max-width: 300px; */
-    text-align: center; /* Center the text in the box */
-  }
+    text-align: center;
+    /* Center the text in the box */
+}
 
-  .items-container {
+.items-container {
     display: flex;
-    flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
-    justify-content: center; /* Center the items horizontally   
+    flex-wrap: wrap;
+    /* Allow items to wrap to the next line if necessary */
+    justify-content: center;
+    /* Center the items horizontally   
    */
-  }
-  
-  .item {
-    width: 200px; /* Adjust the width as needed */
-    height: 200px; /* Adjust the height as needed */
+}
+
+.item {
+    width: 200px;
+    /* Adjust the width as needed */
+    height: 200px;
+    /* Adjust the height as needed */
     background-color: #f0f0f0;
     border: 2px solid #000;
-    border-radius: 10px; /* Create rounded corners */
+    border-radius: 10px;
+    /* Create rounded corners */
     padding: 20px;
     text-align: center;
-  }
+}
