@@ -8,7 +8,7 @@ body {
     padding-right: 10em;
     padding-bottom: 10em;
     padding-left: 10em;
-    background:- white ;
+    background:- rgb(27, 108, 114) ;
     text-align: center;
 }
 
@@ -27,10 +27,10 @@ img {
     max-width: 50%;
 }
 
-/* nav{
+nav{
     display: flex;
     justify-content: space-between;
-} */
+}
 
 nav{
     /* Additional styles for the anchor elements */
