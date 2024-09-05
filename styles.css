@@ -50,7 +50,17 @@ ul {
   }
   
   ul li {
-    margin-bottom: 5px;
+    display: inline-block;
+    border: 2px solid #1097ccc5; /* Box color */
+    padding: 10px;
+    margin: 5px; /* Spacing between items */
+    border-radius: 8px; /* Rounded corners (optional) */
+    font-size: 16px;
+    width: 200px; /* Fixed width (customize as needed) */
+    /* Alternatively, you can use min-width or max-width for flexibility */
+    /* min-width: 150px; */
+    /* max-width: 300px; */
+    text-align: center; /* Center the text in the box */
   }
 
   .items-container {
