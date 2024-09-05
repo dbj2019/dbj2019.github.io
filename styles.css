@@ -68,6 +68,7 @@ ul {
 }
 
 ul li {
+    align-items: center;
     display: inline-block;
     border: 2px solid #bcbcbd;
     /* Box color */
