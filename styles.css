@@ -25,9 +25,7 @@ body {
     /* Optional: Repeat the background image (default is repeat) */
     background-repeat: no-repeat;
     /* Add a blur effect to the background */
-    filter: blur(100px);
     /* Adjust the blur value as needed */
-
     /* Create a subtle zoom-in animation */
     animation: zoomInOut 10s infinite alternate ease-in-out;
 }
