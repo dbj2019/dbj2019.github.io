@@ -26,7 +26,6 @@ body {
     background-repeat: no-repeat;
     /* Add a blur effect to the background */
     filter: blur(100px);
-    z-index: -1;
     /* Adjust the blur value as needed */
 
     /* Create a subtle zoom-in animation */
