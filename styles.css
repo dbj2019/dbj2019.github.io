@@ -88,6 +88,10 @@ ul li {
     text-align: justify;
     /* Center the text in the box */
 }
+ul li:hover {
+    background-color: #0f6fdd;
+  }
+  
 
 .items-container {
     display: flex;
