@@ -58,6 +58,7 @@ nav {
     padding: 0;
     flex-direction: row;
     text-align: center;
+    justify-content: center;
     /* Arrange items vertically */
 }
 
@@ -65,6 +66,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
 }
 
 ul li {
