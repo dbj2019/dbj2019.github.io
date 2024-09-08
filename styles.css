@@ -88,10 +88,35 @@ ul li {
     text-align: justify;
     /* Center the text in the box */
 }
+
 ul li:hover {
     background-color: #0f6fdd;
-  }
-  
+}
+
+
+
+/* Full width button styling */
+.full-width-btn {
+    width: 100%;
+    padding: 15px;
+    font-size: 25px;
+    background-color: grey;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.full-width-btn:hover {
+    background-color: #555;
+}
+
+a {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+}
 
 .items-container {
     display: flex;
