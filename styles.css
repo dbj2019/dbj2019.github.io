@@ -72,12 +72,12 @@ ul {
 ul li {
     align-items: center;
     display: inline-block;
-    border: 2px solid #bcbcbd;
+    border: 5px solid #bcbcbd;
     /* Box color */
-    padding: 2px;
-    margin: 2px;
+    padding: 5px;
+    margin: 5px;
     /* Spacing between items */
-    border-radius: 2px;
+    border-radius: 5px;
     /* Rounded corners (optional) */
     font-size: 16px;
     width: 200px;
