@@ -100,7 +100,7 @@ ul li:hover {
     width: 100%;
     padding: 15px;
     font-size: 25px;
-    background-color: grey;
+    /* background-color: #000(128, 128, 128); */
     border: none;
     border-radius: 10px;
     color: white;
@@ -109,7 +109,7 @@ ul li:hover {
 }
 
 .full-width-btn:hover {
-    background-color: #555;
+    /* background-color: #555; */
 }
 
 a {
